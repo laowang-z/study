@@ -16,7 +16,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++_study_container.cpp">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Final_test.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

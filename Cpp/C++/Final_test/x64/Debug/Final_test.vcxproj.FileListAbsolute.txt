@@ -1,0 +1,2 @@
+E:\study\C++\C++\Final_test\x64\Debug\Final_test.exe
+E:\study\Cpp\C++\Final_test\x64\Debug\Final_test.exe

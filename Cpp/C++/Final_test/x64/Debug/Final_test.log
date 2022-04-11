@@ -1,0 +1,2 @@
+﻿Person.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > local_placeholder" (?local_placeholder@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Final_test.obj
+E:\study\Cpp\C++\Final_test\x64\Debug\Final_test.exe : fatal error LNK1169: one or more multiply defined symbols found

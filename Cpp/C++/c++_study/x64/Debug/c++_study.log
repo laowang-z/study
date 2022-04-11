@@ -1,2 +1,3 @@
-﻿  C++_study_container.cpp
-  c++_study.vcxproj -> E:\study\C++\C++\c++_study\x64\Debug\c++_study.exe
+﻿  Final_test.cpp
+Final_test.obj : error LNK2005: main already defined in C++_study_container.obj
+E:\study\Cpp\C++\c++_study\x64\Debug\c++_study.exe : fatal error LNK1169: one or more multiply defined symbols found

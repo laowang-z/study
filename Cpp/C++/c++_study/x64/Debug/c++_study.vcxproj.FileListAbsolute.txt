@@ -1,1 +1,2 @@
 E:\study\C++\C++\c++_study\x64\Debug\c++_study.exe
+E:\study\Cpp\C++\c++_study\x64\Debug\c++_study.exe

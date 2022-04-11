@@ -1,0 +1,4 @@
+﻿  local_function.cpp
+E:\study\Cpp\C++\Speech_Contest\Speech_Contest\local_function.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\study\Cpp\C++\Speech_Contest\Speech_Contest\local_function.cpp(35,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Speech_Contest.vcxproj -> E:\study\Cpp\C++\Speech_Contest\x64\Debug\Speech_Contest.exe
